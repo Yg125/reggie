@@ -1,4 +1,4 @@
-package com.itheima.reggie_take_out;
+package com.itheima;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
